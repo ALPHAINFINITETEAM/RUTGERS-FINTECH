@@ -1,9 +1,14 @@
-# RUTGERS-FINTECH
+# RUTGERS HEADER 1
+![arex image](AREXLOGO.PNG)
 
 
-## This is a Header
+## RUTGERS HEADER 2
+Description
 
-# This Header 2
+### RUTGERS HEADER 3
+
+Solutions
+
+[click here!](https://www.rutgers.edu/?gclid=Cj0KCQjwpeaYBhDXARIsAEzItbH6g0ybUsG7ylJVZqQ1eefMISipoBeeeR1cnBCqkiSLXjM3r2qNDCEaAhGqEALw_wcB)
 
 
-Bullet points
